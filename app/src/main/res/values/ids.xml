@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="dash_mob" type="id" />
+    <item name="homeDrawerLayout" type="id"/>
+    <item name="homeNavigationView" type="id"/>
+    <item name="homeCoordinatorLayout" type="id"/>
+    <item name="homeAppBarLayout" type="id"/>
+    <item name="homeToolbar" type="id"/>
+    <item name="container" type="id"/>
+    <item name="postToolbar" type="id"/>
+    <item name="postRecyclerview" type="id"/>
+    <item name="postFloatingButton" type="id"/>
+    <item name="addPostToolbar" type="id"/>
+    <item name="input_title" type="id"/>
+    <item name="txtTitle" type="id"/>
+    <item name="input_body" type="id"/>
+    <item name="txtBody" type="id"/>
+    <item name="input_slug" type="id"/>
+    <item name="txtSlug" type="id"/>
+    <item name="btnSubmit" type="id"/>
+    <item name="btnCancel" type="id"/>
+    <item name="webview" type="id"/>
+    <item name="dashboardRecyclerview" type="id"/>
+    <item name="itemDashBoard" type="id"/>
+    <item name="userName" type="id"/>
+
+
+</resources>

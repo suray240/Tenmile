@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tenmile</string>
+    <string name="app_Posts">Tumblr Posts</string>
+    <string name="app_add_Posts">Tumblr Add Posts</string>
+    <string name="hintTitle">Enter Title</string>
+    <string name="hintBody">Enter Body of Post</string>
+    <string name="hintSlug">Enter Short Url</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnOk">OK</string>
+</resources>
